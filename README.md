@@ -10,15 +10,15 @@
 
 ### About Me
 
-I'm a Software Engineer passionate about building applications that solve real business problems, from initial architecture to final release. My work spans mobile and desktop app development, blockchain exploration, and designing efficient, scalable database solutions.
+I'm an Information Systems student at Institut Teknologi Sepuluh Nopember (ITS) with an interest in software development, web technologies, and UI/UX design. I enjoy building projects that combine technical problem-solving with practical solutions, while continuously learning and exploring new technologies.
 
-- 📱 **Mobile & Desktop Development** — building cross-platform applications that are stable and user-friendly
-- ⛓️ **Blockchain Development** — currently exploring smart contracts and decentralized architecture
-- 🗄️ **Database Design** — designing efficient database schemas tailored to business needs
-- 🧠 **Problem Solving** — enjoy turning real-world business challenges into practical software solutions
-- 🤝 **Collaboration** — open to discussions, open-source contributions, and collaborative projects
+🌐 Full-Stack Web Development — building web applications using PHP, SilverStripe, JavaScript, HTML, CSS, and MySQL, from designing user interfaces to implementing backend functionality and database management.
 
-I believe good code isn't just about working functionality, it's also about readability, security, and maintainability. I enjoy exploring new technologies and applying them to build solutions that are both practical and impactful.
+🎨 UI/UX Design — designing user interfaces and user flows with a focus on usability, clear navigation, and a better user experience.
+
+💻 Programming & Problem Solving — working with languages and technologies such as C++, Python, PHP, JavaScript, and SQL to understand problems and develop practical solutions.
+
+I believe that building good software goes beyond making things work. I'm always eager to learn from new challenges, improve my technical skills, and collaborate on projects that turn ideas into meaningful solutions.
 
 <div align="center">
 <h2>Why I build in public</h2>
@@ -34,9 +34,6 @@ I believe good code isn't just about working functionality, it's also about read
 <p>Information Systems student at ITS | Interested in design, robotics, and software development | Always learning and building.</p>
 
 <h2>Open-source toolbox</h2>
-
-<p><code>alebyanao@github ~ $ toolbox --list</code></p>
-</div>
 
 <p align="center">
 <picture>
@@ -74,28 +71,6 @@ I believe good code isn't just about working functionality, it's also about read
   <img src="https://www.gitskins.com/api/section/stats?username=alebyanao&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180193071%3Fu%3D5f26a56bd6b86c11d0001cbe6b30b6df1a9df97f%26v%3D4&style=terminal&v=oss-stats-1&mode=dark" width="100%" alt="Abelya Octaviani open-source signal" />
 </picture>
 </p>
-
-
-<h2>Contribution trail</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=alebyanao&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180193071%3Fu%3D5f26a56bd6b86c11d0001cbe6b30b6df1a9df97f%26v%3D4&v=oss-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=alebyanao&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180193071%3Fu%3D5f26a56bd6b86c11d0001cbe6b30b6df1a9df97f%26v%3D4&v=oss-heatmap-1&mode=dark" width="100%" alt="Abelya Octaviani contribution trail" />
-</picture>
-</p>
-
-<hr />
-
-<h2>Contribute together</h2>
-
-<p>If the work is useful, open an issue, improve the docs, share a project, or start a conversation.</p>
-
-<p align="center"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=alebyanao&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180193071%3Fu%3D5f26a56bd6b86c11d0001cbe6b30b6df1a9df97f%26v%3D4&v=oss-social-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/social?username=alebyanao&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180193071%3Fu%3D5f26a56bd6b86c11d0001cbe6b30b6df1a9df97f%26v%3D4&v=oss-social-1&mode=dark" width="100%" alt="Abelya Octaviani community links" />
-</picture></p>
-<p align="center"><a href="https://github.com/alebyanao">GitHub</a> &nbsp;·&nbsp; <a href="https://portofolio-abel-rouge.vercel.app/">Website</a></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrahmantaraPutra/BrahmantaraPutra/output/pacman-contribution-graph-dark.svg">
