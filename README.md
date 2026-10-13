@@ -97,4 +97,8 @@ I believe good code isn't just about working functionality, it's also about read
 </picture></p>
 <p align="center"><a href="https://github.com/alebyanao">GitHub</a> &nbsp;·&nbsp; <a href="https://portofolio-abel-rouge.vercel.app/">Website</a></p>
 
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BrahmantaraPutra/BrahmantaraPutra/output/pacman-contribution-graph.svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrahmantaraPutra/BrahmantaraPutra/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrahmantaraPutra/BrahmantaraPutra/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BrahmantaraPutra/BrahmantaraPutra/output/pacman-contribution-graph.svg">
+</picture>
