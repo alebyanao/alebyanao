@@ -8,8 +8,7 @@
 </div>
 
 <div align="center">
-### About Me
-</div>
+<h2>About Me</h2>
 
 I'm an Information Systems student at Institut Teknologi Sepuluh Nopember (ITS) with an interest in software development, web technologies, and UI/UX design. I enjoy building projects that combine technical problem-solving with practical solutions, while continuously learning and exploring new technologies.
 
@@ -88,4 +87,24 @@ I believe that building good software goes beyond making things work. I'm always
 
 <p align="center">
 <img src="https://www.gitskins.com/api/section/wordmark?username=alebyanao&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180193071%3Fu%3D5f26a56bd6b86c11d0001cbe6b30b6df1a9df97f%26v%3D4&v=showcase-wordmark-2" alt="Abelya Octaviani wordmark visual" />
+</p>
+
+<p align="center">
+<img src="https://www.gitskins.com/api/section/hero?username=alebyanao&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180193071%3Fu%3D5f26a56bd6b86c11d0001cbe6b30b6df1a9df97f%26v%3D4&v=showcase-hero-1" alt="Abelya Octaviani hero visual" />
+</p>
+
+<p align="center">
+<img src="https://www.gitskins.com/api/section/wordmark?username=alebyanao&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180193071%3Fu%3D5f26a56bd6b86c11d0001cbe6b30b6df1a9df97f%26v%3D4&v=showcase-wordmark-2" alt="Abelya Octaviani wordmark visual" />
+</p>
+
+<p align="center">
+<img src="https://www.gitskins.com/api/section/projects?username=alebyanao&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180193071%3Fu%3D5f26a56bd6b86c11d0001cbe6b30b6df1a9df97f%26v%3D4&v=showcase-projects-3" alt="Abelya Octaviani projects visual" />
+</p>
+
+<p align="center">
+<img src="https://www.gitskins.com/api/section/stats?username=alebyanao&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180193071%3Fu%3D5f26a56bd6b86c11d0001cbe6b30b6df1a9df97f%26v%3D4&v=showcase-stats-4" alt="Abelya Octaviani stats visual" />
+</p>
+
+<p align="center">
+<img src="https://www.gitskins.com/api/section/heatmap?username=alebyanao&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180193071%3Fu%3D5f26a56bd6b86c11d0001cbe6b30b6df1a9df97f%26v%3D4&v=showcase-heatmap-5" alt="Abelya Octaviani heatmap visual" />
 </p>
