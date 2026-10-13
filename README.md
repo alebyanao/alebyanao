@@ -7,8 +7,9 @@
 </p>
 </div>
 
-
+<div align="center">
 ### About Me
+</div>
 
 I'm an Information Systems student at Institut Teknologi Sepuluh Nopember (ITS) with an interest in software development, web technologies, and UI/UX design. I enjoy building projects that combine technical problem-solving with practical solutions, while continuously learning and exploring new technologies.
 
@@ -19,6 +20,8 @@ I'm an Information Systems student at Institut Teknologi Sepuluh Nopember (ITS) 
 💻 Programming & Problem Solving — working with languages and technologies such as C++, Python, PHP, JavaScript, and SQL to understand problems and develop practical solutions.
 
 I believe that building good software goes beyond making things work. I'm always eager to learn from new challenges, improve my technical skills, and collaborate on projects that turn ideas into meaningful solutions.
+
+---
 
 <div align="center">
 <h2>Why I build in public</h2>
@@ -32,6 +35,8 @@ I believe that building good software goes beyond making things work. I'm always
 </table>
 
 <p>Information Systems student at ITS | Interested in design, robotics, and software development | Always learning and building.</p>
+
+--- 
 
 <h2>Open-source toolbox</h2>
 
@@ -53,6 +58,8 @@ I believe that building good software goes beyond making things work. I'm always
 </tr>
 </table>
 
+---
+
 <h2>Repositories worth exploring</h2>
 
 <p align="center">
@@ -62,6 +69,7 @@ I believe that building good software goes beyond making things work. I'm always
 </picture>
 </p>
 
+---
 
 <h2>Contribution activity</h2>
 
@@ -77,3 +85,7 @@ I believe that building good software goes beyond making things work. I'm always
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrahmantaraPutra/BrahmantaraPutra/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BrahmantaraPutra/BrahmantaraPutra/output/pacman-contribution-graph.svg">
 </picture>
+
+<p align="center">
+<img src="https://www.gitskins.com/api/section/wordmark?username=alebyanao&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180193071%3Fu%3D5f26a56bd6b86c11d0001cbe6b30b6df1a9df97f%26v%3D4&v=showcase-wordmark-2" alt="Abelya Octaviani wordmark visual" />
+</p>
