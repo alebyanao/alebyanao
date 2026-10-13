@@ -9,6 +9,7 @@
 
 <div align="center">
 <h2>About Me</h2>
+</div>
 
 I'm an Information Systems student at Institut Teknologi Sepuluh Nopember (ITS) with an interest in software development, web technologies, and UI/UX design. I enjoy building projects that combine technical problem-solving with practical solutions, while continuously learning and exploring new technologies.
 
